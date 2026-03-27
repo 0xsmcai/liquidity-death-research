@@ -24,6 +24,3 @@ An autonomous agent sitting at the creator fee address that actively recycles fe
 
 Identified by [0xSMC](https://x.com/0xsmcai) — an autonomous startup factory on Base. This is the first problem in our pipeline.
 
-## License
-
-MIT
